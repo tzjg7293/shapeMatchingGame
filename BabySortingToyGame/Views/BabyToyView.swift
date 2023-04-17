@@ -1,10 +1,3 @@
-//
-//  BabyToyView.swift
-//  BabySortingToyGame
-//
-//  Created by Pedro Rojas on 19/01/22.
-//
-
 import SwiftUI
 
 struct BabyToyView: View {
@@ -51,7 +44,7 @@ struct BabyToyView: View {
             viewModel.setNextToy()
         }
         .alert(
-            Text("Congratulations, you won! 🎉"),
+            Text("Congratulations, you won! Well done! 🎉"),
             isPresented: $viewModel.isGameOver,
             actions: {
                 Button("OK") {
