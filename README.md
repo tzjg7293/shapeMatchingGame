@@ -1,4 +1,4 @@
-# SHAPE MATCHING GAME FOR TODDLERS IN SWIFT
+# SHAPE MATCHING GAME FOR TODDLERS IN SWIFT (DEMO)
 
 ## Installation
 1. Download/clone repository
